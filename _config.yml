@@ -1,12 +1,12 @@
 # main text of home
 name: Erica Choi
-bio: 'Learning today, leading tomorrow'
+bio: 'Learning today, Leading tomorrow'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/erica.jpg'
+picture: assets/images/erica.jpg
 
-url: https://koppl.in/indigo
+url: http://ericaenglish.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -27,10 +27,10 @@ twitter: mytwitter
 # pinterest: mypinterest
 # linkedin: mylinkedin
 youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+#spotify: myspotify
+#github: mygithub
+#medium: medium
+email: ask@ericaenglish.co.kr
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
